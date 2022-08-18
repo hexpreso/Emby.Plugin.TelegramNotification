@@ -33,11 +33,6 @@ Place the [dll](https://github.com/rafagale/Emby.Plugin.TelegramNotification/rel
 cp /home/user/Download/Emby.Plugin.TelegramNotification.dll /var/lib/emby/plugins/Emby.Plugin.TelegramNotification.dll
 ```
 
-Additionally, if you have problems receiving notifications, place this [dll](https://github.com/rafagale/Emby.Plugin.TelegramNotification/raw/master/Emby.Plugin.TelegramNotification/System.Text.Json.dll) in your emby system directory
-
-```sh
-cp System.Text.Json.dll /opt/emby-server/system/System.Text.Json.dll
-```
 
 Restart your server
 
